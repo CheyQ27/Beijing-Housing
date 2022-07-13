@@ -13,8 +13,7 @@ The data used to make my analysis is
 - I will implement machine learning models that would best be able to predict where the highest paying listings are concentrated based off of the provided data 
 -I will recommend the best model to use depending on how well fit my evaluation metrics are in my chosen regression models
 ## Results
-![scatterplot](image3.png) 
-![scatterplot](image4.png) 
+
 ## Analysis of visuals
 My plots show a map of the Beijing communities coloring each point by price of homes in the first plot and by the aver community income in the second plot.
 My first observation was that of coure the maps are identical but the community average income plot differs from the price map plot in that toward the center of the plot there is a higher concentration of high incomes.
