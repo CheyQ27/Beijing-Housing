@@ -25,6 +25,6 @@ I chose to implement a linear regression model with both ridge and lasso tunings
 ## Recommendations:
 Based on my findings, I believe any agency that wants to up their revenue and holdings should invest their time and energy into acquiring clients and properties from these neighborhoods in the center of my plot.
 ## Limitations & Next Steps
-The limitations to this project are that I don't have a way of knowing if the people that reside in the lightly colored center area are interested in selling. Given the density of wealth it is possible the families have been there a long time, they may be affluent and intent on maintaining their property. My next steps would be to canvas the areas and find out just what kind of communities they are and how attached to the land are the people in the communities I've studied.
+The limitations to this project are that I don't have a way of knowing if the people that reside in the brightly colored center area are interested in selling. Given the density of wealth it is possible the families have been there a long time, they may be affluent and intent on maintaining their property. My next steps would be to canvas the areas and find out just what kind of communities they are and how attached to the land are the people in the communities I've studied.
 ### For further information
 For any additional questions, please contact **Cheyenne.quann@gmail.com**
