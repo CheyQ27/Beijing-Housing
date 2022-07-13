@@ -17,7 +17,7 @@ The data used to make my analysis is
 ![scatterplot](image4.png)
 ## Analysis of visuals
 My plots show a map of the Beijing communities coloring each point by price of homes in the first plot and by the aver community income in the second plot.
-My first observation was that of coure the maps are identical but the community average income plot differs from the price map plot in that toward the center of the plot there is a higher concentration of high incomes.
+My first observation was that of course the maps are identical but the community average income plot differs from the price map plot in that toward the center of the plot there is a higher concentration of high incomes.
 The closer one moves to 39.9 lat, 116.4 lng the more expensive the homes. Thus visualizing what my correlation plot plots have may clear. There is a strong positive correlation between the prices of the homes and the incomes of the people that live in those communities.
 ## Model
 I chose to implement a linear regression model with both ridge and lasso tunings to make predictions based on the dataset with which I conducted my project. It performs well in comparison to my alternate model, albeit with slight underfitting. The accuracy and RMSE scores are almost identical and by using this model the client will be able to predict the next home's price within 14,500 dollars. This model could have several practical uses depending on how it is modified. The current code and model would be most useful to a real estate agency or residential home investor looking to gauge where the most expensive listing will be and expand their holdings.
