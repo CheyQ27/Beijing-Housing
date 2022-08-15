@@ -1,7 +1,8 @@
 # Beijing Housing Predictions based on community average income and current housing market
 ## Throughout this project I will be exploring and visualizing the positive correlation between housing prices and community income.
 **Cheyenne Quann**: 
-### Business problem: How can we predict where the highest priced listings will present themselves as to increase our monthly commission as an agency
+### Business problem:
+How can we predict where the highest priced listings will present themselves as to increase our monthly commission as an agency
 ### Data: 
 The data used to make my analysis is
 /content/drive/MyDrive/Coding Dojo/DataSets/200khouses.csv This dataset contains all pertinent information about Beijing's housing market, coordinates of each house and the average incomes of every community present in the dataset
